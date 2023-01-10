@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi I'm Johann 👋
+
+I'm a student frontend developer passionate by learning and creating beautiful experiences.
+
+
+### Where to find me
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/JohannDumoulin)](https://github.com/JohannDumoulin)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/johann-dumoulin-001238254/)](https://www.linkedin.com/in/johann-dumoulin-001238254/)
 
 <!--
 **JohannDumoulin/JohannDumoulin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
